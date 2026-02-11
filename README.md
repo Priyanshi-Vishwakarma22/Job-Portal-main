@@ -318,6 +318,10 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 </p>
 
 <p align="center">
+  <img <img width="867" height="609" alt="image2" src="https://github.com/user-attachments/assets/cb1d08a8-26b2-4c8a-97a7-44daaf5be12b" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/cd42aa94-3e10-4857-80c5-9e158f835811"  width="700" />
 
 </p>
