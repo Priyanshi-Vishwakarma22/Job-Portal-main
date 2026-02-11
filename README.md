@@ -313,12 +313,19 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 
 **Made with ❤️ by the HireIQ Team**
 
-![image](<img width="881" height="631" alt="image1" src="https://github.com/user-attachments/assets/cd6cfe91-429b-4622-a56e-5bffa1e7bdf7" />
-)
-![image](<img width="867" height="609" alt="image2" src="https://github.com/user-attachments/assets/6cf6abe6-1de6-4982-abb4-d52d63de4938" />
-)
-![image](<img width="1919" height="966" alt="image-3" src="https://github.com/user-attachments/assets/5fbd2e8b-d51e-4058-8c3b-e54620e04911" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e218edd5-4d4f-43b0-ab90-57351b7bf933"  width="700" />
+</p>
+
+<p align="center">
+  <img src=<"img width="1919" height="969" alt="image-2" src="https://github.com/user-attachments/assets/cd42aa94-3e10-4857-80c5-9e158f835811" />
+
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5fbd2e8b-d51e-4058-8c3b-e54620e04911" width="700"/>
+</p>
+
 ![alt text](image-3.png)
 ![alt text](image-4.png)
 ![alt text](image-5.png)
