@@ -313,7 +313,7 @@ If you find HireIQ helpful, please give it a star on GitHub! It helps others dis
 
 **Made with ❤️ by the HireIQ Team**
 
-![alt text](image.png)
+![image](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
