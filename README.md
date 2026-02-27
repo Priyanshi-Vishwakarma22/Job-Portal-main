@@ -301,7 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/Priyanshi-Vishwakarma22/Job-Portal-main/issues)
 - **Email**:  [vishwakarmapriyanshi291@gmail.com](mailto:vishwakarmapriyanshi291@gmail.com)
-- **Documentation**: [Wiki](https://github.com/priyeshkawle-XFOX/hireiq/wiki)
+
 
 ---
 
