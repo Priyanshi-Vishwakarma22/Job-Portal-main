@@ -285,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **priyesh kawle** - *Initial Development* - [priyeshkawle-XFOX](https://github.com/priyeshkawle-XFOX)
+- **priyesh kawle** - *Initial Development* - [Priyanshi-Vishwakarma22](https://github.com/Priyanshi-Vishwakarma22)
 
 ---
 
